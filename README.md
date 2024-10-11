@@ -1,6 +1,9 @@
 # University-Student-Management-System
 # FLEX System - University Student Management System
-
+![fleximg - Copy](https://github.com/user-attachments/assets/5438ba53-6f74-4053-b01d-e7760a194f39)
+![ERD DIAGRAM - Copy](https://github.com/user-attachments/assets/82555c5d-0038-41b8-a508-5e48dc140066)
+![loginSS - Copy](https://github.com/user-attachments/assets/039c0215-d82c-49a7-ab44-8717e919e6d7)
+![STUDENT SS - Copy](https://github.com/user-attachments/assets/aaf24ade-b52f-4670-886c-ea8632c9dce4)
 FLEX System is a comprehensive database management system developed for FAST NUCES to manage and schedule students' academic information. The system allows seamless handling of various operations such as student enrollment, course registration, scheduling, and performance tracking through dedicated user interfaces for Academic Officers, Faculty, and Students.
 Project Overview
 
